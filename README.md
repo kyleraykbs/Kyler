@@ -1,3 +1,7 @@
+# ARCHIVED
+I'm likely switching to stylix as they've fixed essentially all of my original gripes and I no longer want to maintain my own system styler.. for now.
+Probably includes https://codeberg.org/kyleraykbs/kyler
+
 # Project Description
 
 Kyler is inspired by https://github.com/danth/stylix and is made as an active replacement. I had a few primary gripes with Stylix that inspired me to make Kyler:
